@@ -1,0 +1,213 @@
+body{
+  font-family:sans-serif;
+  background-color: #292c3c;
+  color: #fff;
+  margin: 0px auto;
+  width: 960px;
+  text-align: center;
+}
+
+h1{
+  font-size: 60px;
+  text-shadow: 20px 20px 60px #42f4f1;
+}
+
+h1,
+h2,
+h3{
+  text-align: center;
+}
+
+a{
+  color: #42f4f1;
+  text-decoration: none;
+}
+
+a:hover{
+  color: green;
+}
+
+nav{
+  color: #42f4f1;
+  text-align: center;
+  text-decoration: none;
+}
+
+nav{
+  background-color: #3e414f;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  width: 100%;
+}
+
+nav{
+  opacity: 0.8;
+}
+
+nav ul{
+  margin: 0px;
+  padding: 5px 30px;
+}
+
+nav li{
+  display: inline;
+  font-size: 20px;
+  color: #42f4f1;
+  padding: 5px 30px;
+}
+
+nav a{
+  color: #42f4f1;
+}
+
+a{
+  color: #42f4f1;
+  text-decoration: none;
+}
+
+a:hover{
+  color: green;
+}
+
+#stat{
+  text-align: center;
+}
+
+#stats{
+  display: inline-block;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+#stats ul{
+  width: 400px;
+  list-style-type: circle;
+}
+
+#stats li{
+  margin: 10px;
+}
+
+#stats2{
+  display: inline-block;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+#stats2 ul{
+  width: 400px;
+  list-style-type: circle;
+}
+
+#stats2 li{
+  margin: 10px;
+  padding: 5px 0px;
+}
+
+img.interest{
+  float: left;
+  height: 300px;
+  width: auto;
+  margin-right: 40px;
+}
+
+#interests{
+  height: 350px;
+  margin: 20px;
+  padding: 0px 5px 10px 0px;
+}
+
+#interests ul{
+  margin-left: 30px;
+  list-style-type: circle;
+  padding-top: 10px;
+}
+
+#interests ul li{
+  text-align: left;
+  margin: 10px;
+}
+
+#interests a{
+  color: #fff;
+}
+
+#feast{
+  width: auto;
+}
+
+#feast ul li{
+  list-style-type: none;
+  display: inline;
+}
+
+#feast ul li img{
+  width: 240px;
+  height: 300px;
+  padding-bottom: 10px;
+}
+
+#results{
+  margin: 30px auto 30px auto;
+  height: 350px;
+  width: auto;
+}
+
+#results h2{
+  text-shadow: 1px 1px 3px #42f4f1;
+}
+
+#results img{
+  width: 240px;
+  height: 300px;
+  display: inline;
+  float: right;
+  padding-left: 30px;
+}
+
+#results p{
+  padding-top: 15px;
+}
+
+#results a{
+  color: #fff;
+}
+
+table{
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+th{
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  border-bottom: 1px solid #42f4f1;
+  border-top: 1px solid #42f4f1;
+  margin-bottom: 10px;
+}
+
+td{
+  padding: 4px 4px;
+  font-size: 90%;
+}
+
+#byebye{
+  background-image: url("indeximages/sullybyebyebye.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#byebye a{
+  color: #fff;
+}
+
+#byebye p{
+  padding-top: 30px;
+  padding-left: 40px;
+  text-align: left;
+}
+
+#byebye p:last-child{
+  padding-bottom: 30px;
+}
